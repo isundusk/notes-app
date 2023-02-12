@@ -8,7 +8,7 @@ Notes App is a NodeJS application for adding, removing, reading and listing note
 
 ## Installation
 
-Use the package manager [npm](https://pip.pypa.io/en/stable/) to install app.
+Use the package manager npm to install app.
 
 ```bash
 npm install
